@@ -27,6 +27,14 @@ main p{
     text-indent: 0px;
 }
 
+h4 {
+    text-align: justify;
+}
+
+li {
+    text-align: justify;
+}
+
 /*
 
 .quadro_cab {
